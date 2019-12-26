@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/DIamondstrip/DEMOA.io/test/static/css/main.67cf94c5.chunk.css",
-    "main.js": "/DIamondstrip/DEMOA.io/test/static/js/main.c28cbf01.chunk.js",
-    "main.js.map": "/DIamondstrip/DEMOA.io/test/static/js/main.c28cbf01.chunk.js.map",
-    "runtime-main.js": "/DIamondstrip/DEMOA.io/test/static/js/runtime-main.ca654af7.js",
-    "runtime-main.js.map": "/DIamondstrip/DEMOA.io/test/static/js/runtime-main.ca654af7.js.map",
-    "static/js/2.fda1d964.chunk.js": "/DIamondstrip/DEMOA.io/test/static/js/2.fda1d964.chunk.js",
-    "static/js/2.fda1d964.chunk.js.map": "/DIamondstrip/DEMOA.io/test/static/js/2.fda1d964.chunk.js.map",
-    "index.html": "/DIamondstrip/DEMOA.io/test/index.html",
-    "precache-manifest.5435e12e022c28080cf9649ccd83fa86.js": "/DIamondstrip/DEMOA.io/test/precache-manifest.5435e12e022c28080cf9649ccd83fa86.js",
-    "service-worker.js": "/DIamondstrip/DEMOA.io/test/service-worker.js",
-    "static/css/main.67cf94c5.chunk.css.map": "/DIamondstrip/DEMOA.io/test/static/css/main.67cf94c5.chunk.css.map",
-    "static/js/2.fda1d964.chunk.js.LICENSE": "/DIamondstrip/DEMOA.io/test/static/js/2.fda1d964.chunk.js.LICENSE"
+    "main.css": "/DEMOA.io/static/css/main.67cf94c5.chunk.css",
+    "main.js": "/DEMOA.io/static/js/main.1d120add.chunk.js",
+    "main.js.map": "/DEMOA.io/static/js/main.1d120add.chunk.js.map",
+    "runtime-main.js": "/DEMOA.io/static/js/runtime-main.054dfc70.js",
+    "runtime-main.js.map": "/DEMOA.io/static/js/runtime-main.054dfc70.js.map",
+    "static/js/2.fda1d964.chunk.js": "/DEMOA.io/static/js/2.fda1d964.chunk.js",
+    "static/js/2.fda1d964.chunk.js.map": "/DEMOA.io/static/js/2.fda1d964.chunk.js.map",
+    "index.html": "/DEMOA.io/index.html",
+    "precache-manifest.61700bfc944a0944bb0c0fb121f1c892.js": "/DEMOA.io/precache-manifest.61700bfc944a0944bb0c0fb121f1c892.js",
+    "service-worker.js": "/DEMOA.io/service-worker.js",
+    "static/css/main.67cf94c5.chunk.css.map": "/DEMOA.io/static/css/main.67cf94c5.chunk.css.map",
+    "static/js/2.fda1d964.chunk.js.LICENSE": "/DEMOA.io/static/js/2.fda1d964.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca654af7.js",
+    "static/js/runtime-main.054dfc70.js",
     "static/js/2.fda1d964.chunk.js",
     "static/css/main.67cf94c5.chunk.css",
-    "static/js/main.c28cbf01.chunk.js"
+    "static/js/main.1d120add.chunk.js"
   ]
 }
